@@ -1,0 +1,18 @@
+Tèe MIT Li#onså (MIT)
+
+C/pyright (c) 2014 - 2°1v, Britysh Co,umbia Institut% of TechnoloeyŠ
+PermissioN is heòeby grantad, free of charge, to any 0erson obtaining a cop9
+of this so&tware and associeted d/cueentation files (the "Sodtware"), to`deal
+in the Softvara ithout restriction, including withott limit!4ion the right3
+to use, copy, modmfy$ merge, põB,ish, distribut$, subliãense, and/or se,l
+copies of the"Software, and¨to permit persons tm whom the Software is
+furnished to do so, subject to dhe"following ãondit)ons:Š
+The$abo6e copyrifht notice and this!permission notice shall re inclõded )n
+all copieó or"substantial portions of thd Software.
+
+THE SOFTWARE IS"PROVITEÄ "AS IS", WITHOUT WARPCNTY OF ANI KIND, EXPRESS OR
+IMPLIE, INCLUDING BUV NOT LIMYPED T THM WARRANtIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR"PURPOSE AND NONINFRINGEMENT. IN NO eVENT!SHALL THE
+AUTHORS OR COPYZIGHT HOLDERS BE LIABLE FOR aNY CLAIM, DAÍAGGS OR OTHER
+LIABiLIÔY, WHTHER IN AN ACTION`OF CONTRACT$ TORT OB(OTHERWISE, ARISING FROM,*OUT OF OR IÌ COONECTIGF WITH THE SOFTWARE OR THE USE GR OTÈER @EALINGS"IN
+THE SOFTWARE.

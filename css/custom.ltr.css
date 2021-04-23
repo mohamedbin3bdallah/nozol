@@ -1,0 +1,33 @@
+.doc_modal
+{
+	position:absolute;
+}
+.cnt_mdl
+{
+	background-color:#2AA3D6;
+	border-radius:15px;
+}
+.tit_mdl
+{
+	color:#fff;
+	font-size:25px;
+}
+.but_mdl 
+{
+	float:right;
+	background-color:rgba(0,0,0,0);
+	color:#ffffff;
+	border:0;
+	font-size:0.9em;
+}
+
+.tooltip > .tooltip-inner
+{
+    background-color: #2AA3D6; 
+    color: #FFFFFF; 
+	border: 1px solid #143E66; 
+}
+.tooltip.top > .tooltip-arrow
+{
+	border-top: 5px solid #143E66;
+}

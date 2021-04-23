@@ -1,0 +1,16 @@
+{
+  "name": "php_socket",
+  "version": "1.0.0",
+  "description": "PHP Real Time Notifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohamed Elias",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4",
+    "winston": "^2.4.0"
+  }
+}
